@@ -62,7 +62,7 @@
  * meant to be used together with the fuzzymatch patch.
  * https://tools.suckless.org/dmenu/patches/fuzzyhighlight/
  */
-#define FUZZYHIGHLIGHT_PATCH 1
+#define FUZZYHIGHLIGHT_PATCH 0
 
 /* This patch adds support for fuzzy-matching to dmenu, allowing users to type
  * non-consecutive portions of the string to be matched.
@@ -135,7 +135,7 @@
 /* This patch adds an additional color scheme for highlighting entries adjacent
  * to the current selection. https://tools.suckless.org/dmenu/patches/morecolor/
  */
-#define MORECOLOR_PATCH 1
+#define MORECOLOR_PATCH 0
 
 /* This patch adds basic mouse support for dmenu.
  * https://tools.suckless.org/dmenu/patches/mouse-support/
